@@ -33,6 +33,7 @@ For complete setup instructions, please see our [Tailwind Integration Guide](htt
 
 - [Bun vs Node.js: Everything you need to know](https://www.builder.io/blog/bun-vs-node-js)
 - [Get started with Astro and Xata](https://xata.io/docs/getting-started/astro)
+- [@astrojs/vercel 🚀 Astro Documentation](https://docs.astro.build/en/guides/integrations-guide/vercel/)
 
 ## Show your support
 
