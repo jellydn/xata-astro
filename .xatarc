@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Dung-Duc-Huynh-Kaka-s-workspace-2to5ev.ap-southeast-2.xata.sh/db/astro-xata-blogs",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
