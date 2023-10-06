@@ -13,6 +13,7 @@
   "dependencies": {
     "@astrojs/mdx": "^1.1.1",
     "@astrojs/tailwind": "^5.0.1",
+    "@astrojs/vercel": "^5.0.2",
     "@types/canvas-confetti": "^1.6.1",
     "@xata.io/client": "^0.26.7",
     "astro": "^3.2.3",
