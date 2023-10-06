@@ -29,6 +29,11 @@ Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. Thi
 
 For complete setup instructions, please see our [Tailwind Integration Guide](https://docs.astro.build/en/guides/integrations-guide/tailwind).
 
+## Resources
+
+- [Bun vs Node.js: Everything you need to know](https://www.builder.io/blog/bun-vs-node-js)
+- [Get started with Astro and Xata](https://xata.io/docs/getting-started/astro)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
