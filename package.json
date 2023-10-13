@@ -15,7 +15,7 @@
     "@astrojs/tailwind": "5.0.2",
     "@astrojs/vercel": "5.0.2",
     "@types/canvas-confetti": "1.6.1",
-    "@xata.io/client": "0.26.8",
+    "@xata.io/client": "0.26.9",
     "astro": "3.3.0",
     "autoprefixer": "10.4.16",
     "canvas-confetti": "1.9.0",
